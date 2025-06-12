@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.5",
+    "react-router-dom": "^7.6.2",
+    "shadcn-ui": "^0.9.5",
+    "tailwindcss": "^4.1.10"
+  }
+}
